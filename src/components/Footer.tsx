@@ -79,13 +79,9 @@ const Footer = () => {
                 </a>
               </li>
               <li className="flex items-center gap-2">
-                <Mail className="w-4 h-4" />
-                <a 
-                  href="mailto:info@thehoodlaundromat.com" 
-                  className="text-background/70 hover:text-background transition-colors"
-                >
-                  ynkansah@gmail.com
-                </a>
+          
+                
+            
               </li>
             </ul>
 

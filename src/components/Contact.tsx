@@ -104,21 +104,6 @@ const Contact = () => {
 
                 <div className="flex items-start gap-4">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center">
-                    <Mail className="w-6 h-6 text-primary" />
-                  </div>
-                  <div>
-                    <h4 className="font-semibold mb-1">Email</h4>
-                    <a 
-                      href="mailto:info@thehoodlaundromat.com" 
-                      className="text-muted-foreground hover:text-primary transition-colors"
-                    >
-                      ynkansah@gmail.com 
-                    </a>
-                  </div>
-                </div>
-
-                <div className="flex items-start gap-4">
-                  <div className="flex-shrink-0 w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center">
                     <MapPin className="w-6 h-6 text-primary" />
                   </div>
                   <div>
